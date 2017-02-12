@@ -9,8 +9,8 @@
 #	The latest version can be obtained from
 #		http://www.linux-usb.org/usb.ids
 #
-# Version: 2016.12.05
-# Date:    2016-12-05 20:34:05
+# Version: 2017.02.11
+# Date:    2017-02-11 20:34:05
 #
 
 # Vendors, devices and interfaces. Please keep sorted.
@@ -17044,9 +17044,23 @@
 	0890  Flash Padlock
 	0a00  SP2500 Speakers
 	0a60  Vengeance K60 Keyboard
+	0c04  Link Cooling Node
 	1a01  Flash Voyager GT
+	1a03  Voyager 3.0
+	1a09  Voyager GT 3.0
 	1a0a  Survivor Stealth Flash Drive
+	1a0b  Flash Voyager LS
+	1a15  Voyager Slider Flash Drive
 	1a90  Flash Voyager GT
+	1ab1  Voyager
+	1b04  Raptor K50 Keyboard
+	1b07  Vengeance K65 Gaming Keyboard
+	1b08  Vengeance K95 Keyboard
+	1b09  Vengeance K70R keyboard
+	1b11  K95 RGB Mechanical Gaming Keyboard
+	1b13  Vengeance K70RGB keyboard
+	1c00  Controller for Corsair Link
+	1c0c  RM850i Power Supply
 1b1f  eQ-3 Entwicklung GmbH
 	c00f  HM-CFG-USB/HM-CFG-USB-2 [HomeMatic Configuration adapter]
 1b20  MStar Semiconductor, Inc.
