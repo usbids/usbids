@@ -9,8 +9,8 @@
 #	The latest version can be obtained from
 #		http://www.linux-usb.org/usb.ids
 #
-# Version: 2018.03.23
-# Date:    2018-03-23 20:34:08
+# Version: 2018.03.29
+# Date:    2018-03-29 20:34:07
 #
 
 # Vendors, devices and interfaces. Please keep sorted.
@@ -183,7 +183,7 @@
 	6902  Floppy Disk Drive
 	7500  CD-R/RW
 	ffff  Dongle with BlueCore in DFU mode
-03f0  Hewlett-Packard
+03f0  HP, Inc
 	0004  DeskJet 895c
 	0011  OfficeJet G55
 	0012  DeskJet 1125C Printer Port
