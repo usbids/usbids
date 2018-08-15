@@ -9,8 +9,8 @@
 #	The latest version can be obtained from
 #		http://www.linux-usb.org/usb.ids
 #
-# Version: 2018.08.09
-# Date:    2018-08-09 20:34:05
+# Version: 2018.08.15
+# Date:    2018-08-15 20:34:06
 #
 
 # Vendors, devices and interfaces. Please keep sorted.
@@ -6843,6 +6843,7 @@
 	0072  M-LS6UL Mouse
 	0073  M-LS7UL Mouse
 	0074  M-FW1UL Mouse
+	0075  M-FW2DL Mouse
 	200c  LD-USB/TX
 	4002  Laneed 100Mbps Ethernet LD-USB/TX [pegasus]
 	4005  LD-USBL/TX
