@@ -9,8 +9,8 @@
 #	The latest version can be obtained from
 #		http://www.linux-usb.org/usb.ids
 #
-# Version: 2019.01.15
-# Date:    2019-01-15 20:34:05
+# Version: 2019.01.17
+# Date:    2019-01-17 20:34:05
 #
 
 # Vendors, devices and interfaces. Please keep sorted.
@@ -948,6 +948,7 @@
 	0103  FV TouchCam N1 (Audio)
 	030c  HP Webcam
 	03b2  HP Webcam
+	03f4  HP Webcam
 	1030  FV TouchCam N1 (Video)
 	3000  Optical dual-touch panel
 	3001  Optical Touch Screen
@@ -2488,6 +2489,7 @@
 	4d81  Dell N889 Optical Mouse
 	4d91  Laser mouse M-D16DL
 	4d92  Optical mouse M-D17DR
+	4db1  Dell Laptop Integrated Webcam 2Mpix
 	4de3  HP 5-Button Optical Comfort Mouse
 	4de7  webcam
 	4e04  Lenovo Keyboard KB1021
@@ -4563,6 +4565,7 @@
 	0891  Stylus Office BX535WD
 	0892  Stylus Office BX935FWD
 	0893  EP-774A
+	1114  XP-440 [Expression Home Small-in-One Printer]
 	1129  ET-4750 [WorkForce ET-4750 EcoTank All-in-One]
 04b9  Rainbow Technologies, Inc.
 	0300  SafeNet USB SuperPro/UltraPro
@@ -5315,6 +5318,7 @@
 	7080  Anycall SCH-W580
 	7081  Human Interface Device
 	8001  Handheld
+	d003  GT-I9003
 	e020  SERI E02 SCOM 6200 UMTS Phone
 	e021  SERI E02 SCOM 6200 Virtual UARTs
 	e022  SERI E02 SCOM 6200 Flash Load Disk
