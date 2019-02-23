@@ -9,8 +9,8 @@
 #	The latest version can be obtained from
 #		http://www.linux-usb.org/usb.ids
 #
-# Version: 2019.01.17
-# Date:    2019-01-17 20:34:05
+# Version: 2019.02.23
+# Date:    2019-02-23 20:34:05
 #
 
 # Vendors, devices and interfaces. Please keep sorted.
@@ -19051,6 +19051,9 @@
 22b9  eTurboTouch Technology, Inc.
 	0006  Touch Screen
 22ba  Technology Innovation Holdings, Ltd
+22e0  secunet Security Networks AG
+	0002  SINA Flash Drive
+	0003  SINA ID Token A
 2304  Pinnacle Systems, Inc.
 	0109  Studio PCTV USB (SECAM)
 	0110  Studio PCTV USB (PAL)
