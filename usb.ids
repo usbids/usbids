@@ -9,8 +9,8 @@
 #	The latest version can be obtained from
 #		http://www.linux-usb.org/usb.ids
 #
-# Version: 2019.02.25
-# Date:    2019-02-25 20:34:06
+# Version: 2019.03.18
+# Date:    2019-03-18 20:34:05
 #
 
 # Vendors, devices and interfaces. Please keep sorted.
@@ -12064,6 +12064,9 @@
 	0070  NRP-Z57
 	0083  NRP-Z85
 	0095  NRP-Z86
+	0117  HMF / HMP / HMS-X / HMO series Oscilloscopes
+	0118  HMF / HMP / HMS-X / HMO series Oscilloscopes
+	0119  HMF / HMP / HMS-X / HMO series Oscilloscopes
 0aae  NEC infrontia Corp. (Nitsuko)
 0aaf  Digitalway Co., Ltd
 0ab0  Arrow Strong Electronics Co., Ltd
