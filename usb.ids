@@ -9,8 +9,8 @@
 #	The latest version can be obtained from
 #		http://www.linux-usb.org/usb.ids
 #
-# Version: 2019.07.27
-# Date:    2019-07-27 20:34:05
+# Version: 2019.08.19
+# Date:    2019-08-19 20:34:06
 #
 
 # Vendors, devices and interfaces. Please keep sorted.
@@ -19443,6 +19443,8 @@
 	0001  Nitrogen Bootloader
 30a4  Blues Wireless
 	0001  Notecard
+30c2  UNPARALLEL Innovation, Lda
+	1388  SPL Meter
 30ee  Fujitsu Connected Technologies Limited
 	1001  F-01L
 3125  Eagletron
