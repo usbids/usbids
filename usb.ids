@@ -9,8 +9,8 @@
 #	The latest version can be obtained from
 #		http://www.linux-usb.org/usb.ids
 #
-# Version: 2019.08.19
-# Date:    2019-08-19 20:34:06
+# Version: 2019.08.21
+# Date:    2019-08-21 20:34:05
 #
 
 # Vendors, devices and interfaces. Please keep sorted.
@@ -7644,6 +7644,10 @@
 	0002  CVA122 Cable Voice Adapter (WDM)
 	0003  CVA124E Cable Voice Adapter (WDM)
 	0004  CVA122E Cable Voice Adapter (WDM)
+	0a00  Integrated Management Controller Hub
+	0a01  Virtual Keyboard/Mouse
+	0a02  Virtual Mass Storage
+	0a03  Virtual Ethernet/RNDIS
 05a7  Bose Corp.
 	4000  Bluetooth Headset
 	4001  Bluetooth Headset in DFU mode
