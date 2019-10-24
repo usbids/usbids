@@ -9,8 +9,8 @@
 #	The latest version can be obtained from
 #		http://www.linux-usb.org/usb.ids
 #
-# Version: 2019.10.05
-# Date:    2019-10-05 20:34:06
+# Version: 2019.10.24
+# Date:    2019-10-24 20:34:07
 #
 
 # Vendors, devices and interfaces. Please keep sorted.
@@ -15214,7 +15214,7 @@
 10c3  Universal Laser Systems, Inc.
 	00a4  ULS PLS Series Laser Engraver Firmware Loader
 	00a5  ULS Print Support
-10c4  Cygnal Integrated Products, Inc.
+10c4  Silicon Labs
 	0002  F32x USBXpress Device
 	0003  CommandIR
 	800a  SPORTident
@@ -15253,12 +15253,29 @@
 	8973  C8051F38x HDMI Extender [UHBX-8X]
 	89c6  SPORTident HID device
 	89e1  C8051F38x HDMI Extender [UHBX-SW3-WP]
-	ea60  CP2102/CP2109 UART Bridge Controller [CP210x family]
+	89fb  Qivicon ZigBee Stick
+	8a3c  C8051F38x HDBaseT Receiver [UHBX-R-XT]
+	8a6c  C8051F38x 4K HDMI Audio Extractor [EMX-AMP]
+	8acb  C8051F38x HDBaseT Wall Plate Receiver with IR, RS-232, and PoH [UHBX-R-WP]
+	8af8  C8051F38x 4K HDMI Audio Extractor w/Audio Amplifier, HDBT Input, Line Audio Input RS-232 Ports and IP Control [VSA-X21]
+	8b8c  C8051F38x 4K HDMI Audio Extractor w/Audio Amplifier, HDBT Input, Line Audio Input RS-232 Ports and IP Control [SC-3H]
+	8db5  C8051F38x CATx HDMI Receiver with USB [EX-HDU-R]
+	8db6  C8051F38x CATx HDMI Receiver
+	ea60  CP210x UART Bridge
 	ea61  CP210x UART Bridge
-	ea70  CP210x UART Bridge
-	ea80  CP210x UART Bridge
+	ea63  CP210x UART Bridge
+	ea70  CP2105 Dual UART Bridge
+	ea71  CP2108 Quad UART Bridge
+	ea80  CP2110 HID UART Bridge
+	ea90  CP2112 HID I2C Bridge
+	ea91  CP2112 HID SMBus/I2C Bridge for CP2614 Evaluation Kit
+	ea93  CP2112 HID SMBus/I2C Bridge for CP2615 Evaluation Kit
+	eab0  CP2114 I2S Audio Bridge
+	eac0  CP2614 MFi Accessory Digital Audio Bridge
+	eac1  CP2615 I2S Audio Bridge
 	eac9  EFM8UB1 Bootloader
 	eaca  EFM8UB2 Bootloader
+	eacb  EFM8UB3 Bootloader
 10c5  Sanei Electric, Inc.
 	819a  FM Radio
 10c6  Intec, Inc.
