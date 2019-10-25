@@ -9,8 +9,8 @@
 #	The latest version can be obtained from
 #		http://www.linux-usb.org/usb.ids
 #
-# Version: 2019.10.24
-# Date:    2019-10-24 20:34:07
+# Version: 2019.10.25
+# Date:    2019-10-25 20:34:07
 #
 
 # Vendors, devices and interfaces. Please keep sorted.
@@ -18770,6 +18770,7 @@
 	2cf6  Pyra Mouse (wireless)
 	2d50  Kova+ Mouse
 	2d51  Kone+ Mouse
+	2e22  Kone XTD Mouse
 	30d4  Arvo Keyboard
 1ea7  SHARKOON Technologies GmbH
 	0066  [Mediatrack Edge Mini Keyboard]
