@@ -9,8 +9,8 @@
 #	The latest version can be obtained from
 #		http://www.linux-usb.org/usb.ids
 #
-# Version: 2020.02.25
-# Date:    2020-02-25 20:34:07
+# Version: 2020.02.28
+# Date:    2020-02-28 20:34:06
 #
 
 # Vendors, devices and interfaces. Please keep sorted.
@@ -11736,10 +11736,16 @@
 09c1  Arris Interactive LLC
 	1337  TOUCHSTONE DEVICE
 09c2  Nisca Corp.
-09c3  ActivCard, Inc.
+09c3  HID Global
 	0007  Reader V2
 	0008  ZFG-9800-AC SmartCard Reader
 	0014  ActivIdentity ActivKey SIM USB Token
+	0028  Crescendo Key
+	0029  Crescendo Key
+	002a  Crescendo Key
+	002b  Crescendo Key
+	002c  Crescendo Key
+	002e  Crescendo Key
 09c4  ACTiSYS Corp.
 	0011  ACT-IR2000U IrDA Dongle
 09c5  Memory Corp.
