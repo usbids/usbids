@@ -9,8 +9,8 @@
 #	The latest version can be obtained from
 #		http://www.linux-usb.org/usb.ids
 #
-# Version: 2020.03.19
-# Date:    2020-03-19 20:34:10
+# Version: 2020.03.25
+# Date:    2020-03-25 20:34:06
 #
 
 # Vendors, devices and interfaces. Please keep sorted.
@@ -19313,6 +19313,18 @@
 22b9  eTurboTouch Technology, Inc.
 	0006  Touch Screen
 22ba  Technology Innovation Holdings, Ltd
+22c9  StepOver GmbH
+	0601  naturaSign Pad Colour
+	0701  naturaSign Pad Mobile
+	0801  naturaSign Pad Comfort
+	0881  naturaSign Pad Flawless
+	0901  naturaSign Pad Classic
+	09e1  naturaSign Pad Biometric
+	0ce1  duraSign Pad Brilliance
+	0cf1  duraSign Pad Biometric 5.0
+	0d01  duraSign 10.0
+	0df1  duraSign Pad Biometric 10.0
+22cd  Kinova Robotics Inc.
 22e0  secunet Security Networks AG
 	0002  SINA Flash Drive
 	0003  SINA ID Token A
@@ -19624,6 +19636,7 @@
 	14ea  GW-US11H WLAN
 2c1a  Dolphin Peripherals
 	0000  Wireless Optical Mouse
+2c23  Supermicro Computer Incorporated
 2c7c  Quectel Wireless Solutions Co., Ltd.
 	0121  EC21 LTE modem
 	0125  EC25 LTE modem
