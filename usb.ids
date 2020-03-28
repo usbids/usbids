@@ -9,8 +9,8 @@
 #	The latest version can be obtained from
 #		http://www.linux-usb.org/usb.ids
 #
-# Version: 2020.03.25
-# Date:    2020-03-25 20:34:06
+# Version: 2020.03.28
+# Date:    2020-03-28 20:34:07
 #
 
 # Vendors, devices and interfaces. Please keep sorted.
@@ -19637,6 +19637,7 @@
 2c1a  Dolphin Peripherals
 	0000  Wireless Optical Mouse
 2c23  Supermicro Computer Incorporated
+	1b83  NIC
 2c7c  Quectel Wireless Solutions Co., Ltd.
 	0121  EC21 LTE modem
 	0125  EC25 LTE modem
