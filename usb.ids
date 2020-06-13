@@ -9,8 +9,8 @@
 #	The latest version can be obtained from
 #		http://www.linux-usb.org/usb.ids
 #
-# Version: 2020.06.09
-# Date:    2020-06-09 20:34:09
+# Version: 2020.06.13
+# Date:    2020-06-13 17:25:15
 #
 
 # Vendors, devices and interfaces. Please keep sorted.
@@ -23,6 +23,7 @@
 0001  Fry's Electronics
 	7778  Counterfeit flash drive [Kingston]
 0002  Ingram
+	0002  passport00
 0003  Club Mac
 0004  Nebraska Furniture Mart
 0011  Unknown
