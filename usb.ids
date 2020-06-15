@@ -9,8 +9,8 @@
 #	The latest version can be obtained from
 #		http://www.linux-usb.org/usb.ids
 #
-# Version: 2020.06.14
-# Date:    2020-06-14 20:34:07
+# Version: 2020.06.15
+# Date:    2020-06-15 20:34:10
 #
 
 # Vendors, devices and interfaces. Please keep sorted.
@@ -19138,23 +19138,36 @@
 	0202  S200 2GB Rev. 1
 1954  Radiient Technologies
 195d  Itron Technology iONE
+	2030  Func KB-460 Gaming Keyboard
 	7002  Libra-Q11 IR remote
 	7006  Libra-Q26 / 1.0 Remote
 	7777  Scorpius wireless keyboard
 	7779  Scorpius-P20MT
+1963  IK Multimedia
+	0005  iRig KEYS
+	0046  UNO Synth
 1965  Uniden Corporation
 	0016  HomePatrol-1
+	0018  UBC125XLT
+	001a  BCD436HP Scanner
 1967  CASIO HITACHI Mobile Communications Co., Ltd.
 196b  Wispro Technology Inc.
 1970  Dane-Elec Corp. USA
 	0000  Z Mate 16GB
+1973  Spectralink Corporation
+	0002  Pivot recovery
+	0003  Pivot Media Transfer Protocol
+	0004  Pivot Media Transfer Protocol
 1975  Dongguan Guneetal Wire & Cable Co., Ltd.
 1976  Chipsbrand Microelectronics (HK) Co., Ltd.
-	6025  Flash Drive 512 MB
+	1307  microSD Card Reader
+	6025  CBM2090 Flash Drive
 1977  T-Logic
 	0111  TL203 MP3 Player and Voice Recorder
 197d  Leuze electronic
 	0222  BCL 508i
+1980  Storage Appliance Corporation
+	0808  Clickfree C2 Slimline (527SE)
 1989  Nuconn Technology Corp.
 198f  Beceem Communications Inc.
 	0210  BCS200 WiMAX Adapter
@@ -19167,11 +19180,20 @@
 	3010  Camera Release 4
 	3011  OEM Camera
 	3012  e-ImageData Corp. ScanPro
+1997  Shenzhen Riitek Technology Co., Ltd
+	0409  wireless mini keyboard with touchpad
+	2433  wireless mini keyboard with touchpad
 199b  MicroStrain, Inc.
 	3065  3DM-GX3-25 Orientation Sensor
 199e  The Imaging Source Europe GmbH
 	8101  DFx 21BU04 Camera
+	8457  DFK AFU130-L53 camera
 199f  Benica Corporation
+19a5  HARRIS Corp.
+	0004  Remote NDIS Network Device
+	0012  RF-7800S Secure Personal Radio
+	0401  Mass Storage Device
+	0402  Falcon III RF-7800V family RNDIS
 19a8  Biforst Technology Inc.
 19ab  Bodelin
 	1000  ProScope HR
@@ -19188,27 +19210,37 @@
 19b5  B & W Group
 19b6  Infotech Logistic, LLC
 19b9  Data Robotics
+	4b10  Drobo
 	8d20  Drobo Elite
 19c2  Futuba
 	6a11  MDM166A Fluorescent Display
 19ca  Mindtribe
 	0001  Sandio 3D HID Mouse
 19cf  Parrot SA
+	0001  MiniKit Slim handsfree car kit in firmware update mode
+19d1  BYD
 19d2  ZTE WCDMA Technologies MSM
 	0001  CDMA Wireless Modem
 	0002  MF632/ONDA ET502HS/MT505UP
 	0007  TU25 WiMAX Adapter [Beceem BCS200]
+	0017  MF669
 	0031  MF110/MF627/MF636
+	0037  ONDA MC503HSA
+	0039  MF100
 	0063  K3565-Z HSDPA
 	0064  MF627 AU
 	0083  MF190
 	0103  MF112
 	0104  K4505-Z
+	0117  MF667
 	0146  MF 195E (HSPA+ Modem)
 	0167  MF820 4G LTE
 	0172  AX226 WIMAX MODEM (After Modeswitch)
 	0325  LTE4G O2 ZTE MF821D LTE/UMTS/GSM Modem/Networkcard
 	0326  LTE4G O2 ZTE MF821D LTE/UMTS/GSM Modem/Networkcard
+	0501  Lever Cell Phone Model Z936L
+	1001  K3805-Z vodafone WCDMA/GSM Modem - storage mode (made by ZTE)
+	1002  K3805-Z vodafone WCDMA/GSM Modem/Networkcard (made by ZTE)
 	1008  K3570-Z
 	1010  K3571-Z
 	1017  K5006-Z vodafone LTE/UMTS/GSM Modem/Networkcard
@@ -19216,6 +19248,7 @@
 	1203  MF691 [ T-Mobile webConnect Rocket 2.0]
 	1217  MF652
 	1218  MF652
+	1270  MF667
 	2000  MF627/MF628/MF628+/MF636+ HSDPA/HSUPA
 	fff2  Gobi Wireless Modem (QDL mode)
 	fff3  Gobi Wireless Modem
@@ -19227,11 +19260,15 @@
 19f7  RODE Microphones
 	0001  Podcaster
 19fa  Gampaq Co.Ltd
+	0607  GAME CONTROLLER
 	0703  Steering Wheel
+19fd  MTI Instruments Inc.
 19ff  Dynex
 	0102  1.3MP Webcam
 	0201  Rocketfish Wireless 2.4G Laser Mouse
+	0220  RF-HDWEBLT RocketFish HD WebCam
 	0238  DX-WRM1401 Mouse
+	0239  Bluetooth 4.0 Adapter [Broadcom, 1.12, BCM20702A0]
 1a08  Bellwood International, Inc.
 1a0a  USB-IF non-workshop
 	badd  USB OTG Compliance test device
@@ -19243,6 +19280,9 @@
 1a2c  China Resource Semico Co., Ltd
 	0021  Keyboard
 	0024  Multimedia Keyboard
+	2124  Keyboard
+	2d23  Keyboard
+	427c  Backlit Keyboard [Cougar Vantar]
 1a32  Quanta Microsystems, Inc.
 	0304  802.11n Wireless LAN Card
 1a34  ACRUX
@@ -19259,6 +19299,11 @@
 1a5a  Tandberg Data
 1a61  Abbott Diabetes Care
 	3410  CoPilot System Cable
+	3650  FreeStyle Libre
+	3850  FreeStyle Optium/Precision Neo
+	3950  FreeStyle Libre 2
+1a64  Mastervolt
+	0000  MasterBus Link
 1a6a  Spansion Inc.
 1a6d  SamYoung Electronics Co., Ltd
 1a6e  Global Unichip Corp.
@@ -19267,21 +19312,29 @@
 	1008  E-861 PiezoWalk NEXACT Controller
 1a79  Bayer Health Care LLC
 	6002  Contour
+	6210  Contour Next Link 2.4 glucometer
+	6300  Contour next link
 	7410  Contour Next
+	7800  Contour Plus One
 1a7b  Lumberg Connect  GmbH & Co. KG
 1a7c  Evoluent
 	0068  VerticalMouse 3
 	0168  VerticalMouse 3 Wireless
 	0191  VerticalMouse 4
+	0195  VerticalMouse C Wireless
 1a81  Holtek Semiconductor, Inc.
+	1004  Wireless Dongle 2.4 GHZ HT82D40REW
+	1701  Wireless dongle
+	2004  Keyboard
 	2203  Laser Gaming mouse
 	2204  Optical Mouse
 	2205  Laser Mouse
+	4001  Keyboard
 1a86  QinHeng Electronics
 	5512  CH341 in EPP/MEM/I2C mode, EPP/I2C adapter
 	5523  CH341 in serial mode, usb to serial port converter
 	5584  CH341 in parallel mode, usb to printer port converter
-	7523  HL-340 USB-Serial adapter
+	7523  CH340 serial converter
 	752d  CH345 MIDI adapter
 	7584  CH340S
 	e008  HID-based serial adapater
@@ -19295,26 +19348,41 @@
 1aa4  Data Drive Thru, Inc.
 1aa5  UBeacon Technologies, Inc.
 1aa6  eFortune Technology Corp.
+1aab  Silvercreations Software AG
+	7736  sceye (Gen 2)
+	7737  sceye (Gen 3)
+	7738  sceye (Gen 4, 3 Mpix)
+	7750  sceyeS (Gen 5, 5 MPix)
 1aad  KeeTouch
 	0001  Touchscreen
 1ab1  Rigol Technologies
+	04b0  DS6000 SERIES
+	04be  DS4000 SERIES
+	04ce  DS1xx4Z/MSO1xxZ series
 	0588  DS1000 SERIES
+1ab2  Allied Vision
+	0001  Vision device
 1acb  Salcomp Plc
 1acc  Midiplus Co, Ltd.
 	0103  AudioLink plus 4x4 2.9.28
 1ad1  Desay Wire Co., Ltd.
 1ad4  APS
 	0002  KM290-HRS
-1adb  SEL C662 Serial Cable
+1adb  Schweitzer Engineering Laboratories, Inc
+	0001  C662 Serial Cable
+	0003  CDC Ethernet Gadget
 1ae4  ic-design Reinhard Gottinger GmbH
 1ae7  X-TENSIONS
 	0381  VS-DVB-T 380U (af9015 based)
+	0525  X-Tensions ISDN TA XC-525 [HFC-S USB]
 	2001  SpeedLink Snappy Mic webcam (SL-6825-SBK)
 	9003  SpeedLink Vicious And Devine Laplace webcam, white (VD-1504-SWT)
 	9004  SpeedLink Vicious And Devine Laplace webcam, black (VD-1504-SBK)
 1aed  High Top Precision Electronic Co., Ltd.
 1aef  Conntech Electronic (Suzhou) Corporation
 1af1  Connect One Ltd.
+1af3  Kingsis Technology Corporation
+	0001  ZOWIE Gaming mouse
 1afe  A. Eberle GmbH & Co. KG
 	0001  PQ Box 100
 1b04  Meilhaus Electronic GmbH
@@ -19398,16 +19466,25 @@
 	1078  BLUDRIVE II CCID
 	1079  BLUDRIVE II CCID
 	1080  WRITECHIP II CCID
+1b12  Eventide
+	0011  ModFactor
 1b1c  Corsair
 	0890  Flash Padlock
 	0a00  SP2500 Speakers
 	0a60  Vengeance K60 Keyboard
 	0c04  Link Cooling Node
+	0c06  RM-Series C-Link Adapter
+	0c0a  Hydro Series H115i Liquid CPU Cooler
+	0c0b  Lighting Node Pro
+	0c0c  Lighting Node Loader
+	0c22  iCUE H150i RGB PRO XT Liquid CPU Cooler
 	1a01  Flash Voyager GT
 	1a03  Voyager 3.0
 	1a09  Voyager GT 3.0
 	1a0a  Survivor Stealth Flash Drive
 	1a0b  Flash Voyager LS
+	1a0e  Voyager GTX
+	1a14  Voyager Vega
 	1a15  Voyager Slider Flash Drive
 	1a90  Flash Voyager GT
 	1ab1  Voyager
@@ -19417,12 +19494,30 @@
 	1b09  Vengeance K70R keyboard
 	1b11  K95 RGB Mechanical Gaming Keyboard
 	1b13  Vengeance K70RGB keyboard
+	1b20  STRAFE RGB Gaming Keyboard
+	1b2d  K95 RGB Platinum Keyboard [RGP0056]
+	1b2e  Corsair Corsair Gaming M65 Pro RGB Mouse
+	1b2f  Sabre RGB [CH-9303011-XX]
+	1b3d  Corsair Corsair Gaming K55 RGB Keyboard
+	1b5e  Harpoon Wireless Mouse
+	1b65  Harpoon Wireless Dongle
 	1c00  Controller for Corsair Link
+	1c02  AX1500i Power Supply
+	1c05  HX750i Power Supply
+	1c07  HX1000i Power Supply
+	1c08  HX1200i Power Supply
+	1c0b  RM750i Power Supply
 	1c0c  RM850i Power Supply
+	1c1a  Corsair CORSAIR Lighting Node CORE
+1b1e  General Imaging / General Electric
+	1003  A1250
 1b1f  eQ-3 Entwicklung GmbH
 	c00f  HM-CFG-USB/HM-CFG-USB-2 [HomeMatic Configuration adapter]
+	c020  HmIP-RFUSB
 1b20  MStar Semiconductor, Inc.
 1b22  WiLinx Corp.
+1b24  Telegent Systems, Inc.
+	4001  TLG2300 Hybrid TV Device
 1b26  Cellex Power Products, Inc.
 1b27  Current Electronics Inc.
 1b28  NAVIsis Inc.
@@ -19457,6 +19552,7 @@
 1b3f  Generalplus Technology Inc.
 	0c52  808 Camera #9 (mass storage mode)
 	2002  808 Camera #9 (web-cam mode)
+	2003  GPD6000 [Digital MP3 Player]
 1b47  Energizer Holdings, Inc.
 	0001  CHUSB Duo Charger (NiMH AA/AAA USB smart charger)
 1b48  Plastron Precision Co., Ltd.
@@ -19487,6 +19583,7 @@
 1b5a  Chao Zhou Kai Yuan Electric Co., Ltd.
 1b65  The Hong Kong Standards and Testing Centre Ltd.
 1b71  Fushicai
+	0050  Encore ENUTV-4 Analog TV Tuner
 	3002  USBTV007 Video Grabber [EasyCAP]
 1b72  ATERGI TECHNOLOGY CO., LTD.
 1b73  Fresco Logic
@@ -19506,6 +19603,8 @@
 	d398  DVB-T receiver [RTL2832U]
 	d700  FM Radio SnapMusic Mobile 700 (FM700)
 	e297  Conceptronic DVB-T CTVDIGRCU V3.0
+	e302  CVBS / S-Video Capture Device [Pinnacle Dazzle / UB315-E]
+	e34c  UB435-Q ATSC TV Stick
 	e383  DVB-T UB383-T [af9015]
 	e385  DVB-T UB385-T [af9015]
 	e386  DVB-T UB385-T [af9015]
@@ -19528,16 +19627,73 @@
 1ba2  Lite Metals & Plastic (Shenzhen) Co., Ltd.
 1ba4  Ember Corporation
 	0001  InSight USB Link
+	0002  EM358 Virtual COM Port
 1ba6  Abilis Systems
 1ba8  China Telecommunication Technology Labs
 1bad  Harmonix Music
-	0002  Guitar for Xbox 360
-	0003  Drum Kit for Xbox 360
+	0002  Rock Band Guitar for Xbox 360
+	0003  Rock Band Drum Kit for Xbox 360
+	0130  Ion Drum Rocker for Xbox 360
+	028e  Controller
+	3330  Rock Band 3 Keyboard wii interface
+	f016  Controller
+	f018  Street Fighter IV SE FightStick for Xbox 360
+	f019  BrawlStick for Xbox 360
+	f021  Ghost Recon Future Soldier Gamepad for Xbox 360
+	f023  MLG Pro Circuit Controller for Xbox 360
+	f025  Call of Duty Controller for Xbox 360
+	f027  FPS Pro Controller for Xbox 360
+	f028  Street Fighter IV FightPad for Xbox 360
+	f02e  FightPad
+	f030  MC2 MicroCON Racing Wheel for Xbox 360
+	f036  MicroCON Gamepad Pro for Xbox 360
+	f038  Street Fighter IV FightStick TE for Xbox 360
+	f039  Marvel VS Capcom 2 Tournament Stick for Xbox 360
+	f03a  Street Fighter X Tekken FightStick Pro for Xbox 360
+	f03d  Street Fighter IV Arcade Stick TE for Xbox 360
+	f03e  MLG Arcade FightStick TE for Xbox 360
+	f03f  Soulcalibur FightStick for Xbox 360
+	f042  Arcade FightStick TE S+ for Xbox 360
+	f080  FightStick TE2 for Xbox 360
+	f501  Horipad EX2 Turbo for Xbox 360
+	f502  Real Arcade Pro.VX SA for Xbox 360
+	f503  Fighting Stick VX for Xbox 360
+	f504  Real Arcade Pro.EX
+	f505  Fighting Stick EX2B for Xbox 360
+	f506  Real Arcade Pro.EX Premium VLX for Xbox 360
+	f900  Controller
+	f901  GameStop Controller
+	f903  Tron Controller for Xbox 360
+	f904  PDP Versus Fighting Pad for Xbox 360
+	f906  Mortal Kombat FightStick for Xbox 360
+	f907  Afterglow Gamepad
+	fa01  Gamepad
+	fd00  Razer Onza Tournament Edition
+	fd01  Razer Onza Classic Edition
 1bae  Vuzix Corporation
 	0002  VR920 Immersive Eyewear
 1bbb  T & A Mobile Phones
+	0003  Alcatel one touch 4030D modem connection
+	0017  HSPA Data Card
+	007a  Alcatel OneTouch (firmware upgrade mode)
 	011e  Alcatel One Touch L100V / Telekom Speedstick LTE II
+	0169  Alcatel ONE TOUCH Fierce
+	0195  Alcatel OneTouch L850V / Telekom Speedstick LTE
+	a00e  Vodafone Smart Tab 4G
+	f000  Alcatel OneTouch (mass storage mode)
 	f017  Alcatel One Touch L100V / Telekom Speedstick LTE II
+1bbd  Videology Imaging Solutions, Inc.
+	0060  1.3MP Mono Camera
+	0066  1.3MP Mono Camera
+	0067  1.3MP Mono Camera
+1bc0  Beijing Senseshield Technology Co.,Ltd.
+	0013  Elitee-e
+	0014  Elite4
+	0020  iToken
+	0021  Mikey
+	0051  Elite5
+	0055  Elite5 v3.x
+	485d  EliteIV
 1bc4  Ford Motor Co.
 1bc5  AVIXE Technology (China) Ltd.
 1bc7  Telit Wireless Solutions
@@ -19606,6 +19762,7 @@
 1c34  SpringCard
 	7241  Prox'N'Roll RFID Scanner
 1c37  Authorizer Technologies, Inc.
+	6190  U2F Fido-compliant cryptotoken
 1c3d  NONIN MEDICAL INC.
 1c3e  Wep Peripherals
 1c40  EZPrototypes
