@@ -9,8 +9,8 @@
 #	The latest version can be obtained from
 #		http://www.linux-usb.org/usb.ids
 #
-# Version: 2020.06.21
-# Date:    2020-06-21 20:34:10
+# Version: 2020.06.22
+# Date:    2020-06-22 20:34:08
 #
 
 # Vendors, devices and interfaces. Please keep sorted.
@@ -9552,7 +9552,7 @@
 	0010  Wireless TouchPad
 	0013  DisplayPad
 	009a  Metallica MIS Touch Fingerprint Reader
-	00a2  Finger Printer
+	00a2  Metallica MOH Touch Fingerprint Reader
 	00bd  Prometheus MIS Touch Fingerprint Reader
 	2970  touchpad
 06cc  Terayon Communication Systems
@@ -15648,6 +15648,7 @@
 	25f3  My Passport SSD (WDBK3E)
 	25fa  easystore Portable 5TB (WDBKUZ0050)
 	25fb  easystore Desktop (WDBCKA)
+	2603  My Passport Game Storage for PS4 4TB (WDBZGE0040)
 	2624  easystore Portable 5TB (WDBKUZ0050)
 	2626  My Passport (WDBPKJ)
 	30a0  SATA adapter cable
@@ -16775,7 +16776,7 @@
 	1037  Ideos
 	1038  Ideos (debug mode)
 	1039  Ideos (tethering mode)
-	1052  MT7-L09
+	1052  MT7-L09 / P7-L10 / Y330-U01
 	1053  P7-L10 (PTP)
 	1054  P7-L10 (PTP + debug)
 	1079  GEM-703LT [Honor/MediaPad X2]
@@ -16795,7 +16796,7 @@
 	14cf  K3772
 	14d1  K3770 3G Modem (Mass Storage Mode)
 	14db  E353/E3131
-	14dc  E33372 LTE/UMTS/GSM HiLink Modem/Networkcard
+	14dc  E3372 LTE/UMTS/GSM HiLink Modem/Networkcard
 	14f1  Gobi 3000 HSPA+ Modem
 	14fe  Modem (Mass Storage Mode)
 	1501  Pulse
@@ -18318,7 +18319,7 @@
 1685  Delock
 	0200  Infrared adapter
 1686  ZOOM Corporation
-	0045  H4 Digital Recorder
+	0045  Handy Recorder stereo mix
 	01c0  Zoom Handy Recorder card reader
 	01c5  Zoom Handy Recorder multi track
 	03d5  LiveTrak L-12
@@ -18432,6 +18433,7 @@
 	08cb  Alpermann+Velte Studio Clock
 	08cc  Alpermann+Velte SAM7S MT Boot Loader
 	08cd  Alpermann+Velte SAM7X MT Boot Loader
+	09ce  LINKUSB
 	0a32  jbmedia Light-Manager Pro
 	27d8  libusb-bound devices
 	27d9  HID device except mice, keyboards, and joysticks
@@ -18476,6 +18478,7 @@
 	0b7e  Autonomic M401 Amplifier
 	0b7f  Autonomic M120e Amplifier
 	0bd4  codesrc SCSI2SD
+	0c9b  Fermium LABS srl/LabTrek srl Hall Effect Apparatus
 	0d3c  InputStick BT4.0
 	0e1e  AtomMiner
 16d1  Suprema Inc.
@@ -18510,7 +18513,7 @@
 	0015  CML Control, Measurement and Data Logging System
 16de  Telemecanique
 16df  King Billion Electronics Co., Ltd.
-16f0  GN ReSound A/S
+16f0  GN Hearing A/S
 	0001  Speedlink Programming Interface
 	0003  Airlink Wireless Programming Interface
 	0004  Accessory Programming Interface
