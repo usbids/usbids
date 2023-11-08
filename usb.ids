@@ -10,7 +10,7 @@
 #		http://www.linux-usb.org/usb.ids
 #
 # Version: 2023.11.08
-# Date:    2023-11-08 13:08:48
+# Date:    2023-11-08 20:34:02
 #
 
 # Vendors, devices and interfaces. Please keep sorted.
@@ -12935,16 +12935,20 @@
 	bd1f  BCM43242 802.11abgn Wireless Adapter
 	d11b  Eminent EM4045 [Broadcom 4320 USB]
 0a5d  Diatrend Corp.
-0a5f  Zebra
+0a5f  Zebra Technologies
 	0009  LP2844 Printer
+	0027  ZTC LP2844-Z-200dpi
 	0050  P120i / WM120i
 	0080  GK420d Label Printer
 	0081  GK420t Label Printer
 	0084  GX420d Desktop Label Printer
 	008b  HC100 wristbands Printer
 	008c  ZP 450 Printer
-	00d1  Zebra GC420d Label Printer
+	00d1  GC420d Label Printer
 	0110  ZD500 Desktop Label Printer
+	011c  ZD410 Direct Thermal Label Printer
+	0141  ZD620
+	0172  ZT411 Barcode Label Printer
 	930a  Printer
 0a62  MPMan
 	0010  MPMan MP-F40 MP3 Player
