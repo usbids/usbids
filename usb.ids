@@ -21073,6 +21073,7 @@
 	2c24  Pyra Mouse (wired)
 	2c2e  Lua Mouse
 	2c38  Kiro Mouse
+	2c8e  Kone Pro Air Receiver
 	2ced  Kone Mouse
 	2cee  Kova 2016 Gray Mouse
 	2cef  Kova 2016 White Mouse
@@ -22155,6 +22156,7 @@
 	2003  5GHz Wireless Transceiver
 	4110  Optical Gaming Mouse [V280]
 	6000  Wireless Audio
+	7003  Gaming Headset
 24c0  Chaney Instrument
 	0003  Model 01036 weather center
 24c6  ThrustMaster, Inc.
@@ -23171,6 +23173,9 @@
 	6901  Media Reader
 357d  Sharkoon
 	7788  JMicron JMS567 ATA/ATAPI Bridge
+362d  SKN
+	1313  QingLong 4.0 Wireless Receiver
+	d101  Wireless Link Receiver
 3636  InVibro
 3752  Arculus Holdings, LLC
 	0001  AuthentiKey
